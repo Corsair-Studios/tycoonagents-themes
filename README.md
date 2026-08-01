@@ -1,6 +1,6 @@
 # TycoonAgents Themes
 
-Official theme downloads for the [TycoonAgents](https://github.com/Corsair-Studios/TycoonAgents) VS Code extension.
+Official theme downloads for TycoonAgents, a VS Code extension that delegates coding work to specialist AI agents and visualizes it.
 
 Each theme is a self-contained `.zip` you download from this repo's [Releases](../../releases) page and then import into the extension. Themes reskin the TycoonAgents panel — characters, objects, badges, and environment art — around a visual concept.
 
@@ -11,6 +11,8 @@ Each theme is a self-contained `.zip` you download from this repo's [Releases](.
 3. Open the **Theme Picker** and choose **Import .zip**, then select the file you just downloaded.
 
 That's it — the theme is now available locally.
+
+**Don't have the extension yet?** TycoonAgents is prerelease and not yet published anywhere public (no Marketplace listing yet). Ask the maintainer directly for the current `.vsix` to install it manually.
 
 **Important:** the TycoonAgents extension does **not** fetch themes over the network on its own. There is no one-click install. Importing a theme is a local file operation: you download the `.zip` yourself from this repo, then point the extension at that file. Nothing is downloaded automatically, and nothing here is installed without you explicitly choosing it in the Theme Picker.
 
